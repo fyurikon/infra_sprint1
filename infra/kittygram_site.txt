@@ -1,0 +1,5 @@
+IP: 51.250.109.37;
+name_taski: https://randomapp.ddns.net;
+name_kittygram: https://fyurikitty.ddns.net;
+login: yc-user;
+password: yc-user22;
